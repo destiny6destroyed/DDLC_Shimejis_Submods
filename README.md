@@ -22,5 +22,5 @@
 - For the Linux version, I used this repository (https://github.com/estenv/linux-shimeji)
 - For the MAC version, I used this repository (https://github.com/LavenderSnek/ShimejiEE-cross-platform)
 
-###Let me know if any version has an issue
+Let me know if any version has an issue
 
