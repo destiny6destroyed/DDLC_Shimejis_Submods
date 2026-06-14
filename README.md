@@ -9,7 +9,7 @@
 ### Monika After Story:
 <img width="1080" height="539" alt="m" src="https://github.com/user-attachments/assets/ad538da0-0013-4876-81cc-2c83a73692bc" />
 
-(In case you only want the 2D version only and not the [3D version]([https://yourwebsite.com](https://github.com/destiny6destroyed/mas_shimeji_submod), you can install this instead)
+(In case you only want the 2D version only and not the [3D version](https://github.com/destiny6destroyed/mas_shimeji_submod), you can install this instead)
 
 ### Just Yuri
 <img width="1647" height="1247" alt="Screenshot 2026-06-12 121946" src="https://github.com/user-attachments/assets/883750cd-a13d-4e05-bca6-5b84d3044ce2" />
