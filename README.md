@@ -19,6 +19,9 @@
 
 (Ignore the red letters, the download version doesn't have it)
 
+### Just Sayori
+<img width="2162" height="1031" alt="Screenshot 2026-06-12 232858" src="https://github.com/user-attachments/assets/4352ef4c-99fd-4441-a993-bf7cf8ca5d90" />
+
 ### Instruction
 1. Go to the "Releases" tab on the right this webpage, then click on the version of the doki you want
 2. Go to your game folder of your MAS/JY/JN/JS and paste the "submods" folder inside
