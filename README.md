@@ -1,4 +1,4 @@
-# DDLC_Shimejis_Submods
+# DDLC Shimejis Submods
 
 ### Versions:
 - Windows (Recommended)
