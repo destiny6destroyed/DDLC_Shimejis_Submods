@@ -45,7 +45,7 @@
 
 
 ### Credits
-- Alan Shepard who made the dialogs of Natsuki, Yuri and Sayori
+- Alan Shepard who made the dialogues of Natsuki, Yuri and Sayori
 - The four shimejis belong to Childish-N (https://www.deviantart.com/childish-n/art/DDLC-Shimeji-Pack-718209813), I only adapted the code
 - For the Linux version, I used this repository (https://github.com/estenv/linux-shimeji)
 - For the MAC version, I used this repository (https://github.com/LavenderSnek/ShimejiEE-cross-platform)
