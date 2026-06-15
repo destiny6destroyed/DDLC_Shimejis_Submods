@@ -38,7 +38,7 @@
 
 ### Instruction
 1. Go to the "Releases" tab on the right this webpage, then click on the version of the doki you want
-2. Go to your game folder of your MAS/JY/JN/JS and paste the "submods" folder inside
+2. Go to your "game" folder of your MAS/JY/JN/JS and paste the "submods" folder inside
 
 (If you are in MAC and you don't know how to mod your game, right-click onto your DDLC.app and press "Show content", then go to Contents/Resources/autorun where you will find the game folder to do step 2)
 
