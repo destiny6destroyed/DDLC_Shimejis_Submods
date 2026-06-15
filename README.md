@@ -9,30 +9,30 @@
 ### Monika After Story:
 <img width="1080" height="539" alt="m" src="https://github.com/user-attachments/assets/ad538da0-0013-4876-81cc-2c83a73692bc" />
 
-Category: Monika
-Conditions: HAPPY
+- Category: Monika
+- Conditions: HAPPY
 
 (In case you only want the 2D version only and not the [3D version](https://github.com/destiny6destroyed/mas_shimeji_submod), you can install this)
 
 ### Just Yuri
 <img width="1647" height="1247" alt="Screenshot 2026-06-12 121946" src="https://github.com/user-attachments/assets/883750cd-a13d-4e05-bca6-5b84d3044ce2" />
 
-Category: Requests
-Conditions: Karma() > 3
+- Category: Requests
+- Conditions: Karma() > 3
 
 ### Just Natsuki
 <img width="1806" height="1284" alt="Screenshot 2026-06-11 220244" src="https://github.com/user-attachments/assets/28683685-1d09-4d4e-b790-cb17be388741" />
 
-Category: Natsuki
-Conditions: HAPPY
+- Category: Natsuki
+- Conditions: HAPPY
 
 (Ignore the red letters, the download version doesn't have it)
 
 ### Just Sayori
 <img width="2162" height="1031" alt="Screenshot 2026-06-12 232858" src="https://github.com/user-attachments/assets/4352ef4c-99fd-4441-a993-bf7cf8ca5d90" />
 
-Category: Sayori
-Conditions: HAPPY
+- Category: Sayori
+- Conditions: HAPPY
 
 ### Instruction
 1. Go to the "Releases" tab on the right this webpage, then click on the version of the doki you want
