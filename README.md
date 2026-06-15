@@ -12,7 +12,7 @@
 - Category: Monika
 - Conditions: HAPPY
 
-(In case you only want the 2D version only and not the [3D version](https://github.com/destiny6destroyed/mas_shimeji_submod), you can install this)
+(This is the 2D version only. If you also want the [3D version](https://github.com/destiny6destroyed/mas_shimeji_submod), go to the link)
 
 ### Just Yuri
 <img width="1647" height="1247" alt="Screenshot 2026-06-12 121946" src="https://github.com/user-attachments/assets/883750cd-a13d-4e05-bca6-5b84d3044ce2" />
