@@ -1,5 +1,7 @@
 # DDLC Shimejis Submods
 
+<img width="2603" height="1457" alt="Screenshot 2026-05-08 170217" src="https://github.com/user-attachments/assets/6527fb27-bafe-4bb8-8d59-d728d21b9c9d" />
+
 ### Versions:
 - Windows (Recommended)
 - MAC (I didn't have a beta-tester for this one and I tried it in a really old MAC version, so let me know if there is any error)
@@ -49,4 +51,5 @@
 - For the MAC version, I used this repository (https://github.com/LavenderSnek/ShimejiEE-cross-platform)
 
 Let me know if any version has an issue
+
 
